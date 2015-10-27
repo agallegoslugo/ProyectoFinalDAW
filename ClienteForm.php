@@ -51,6 +51,7 @@ include 'header.php';
 
 <body> 
 	<h1>Encuesta de Retroalimentacion</h1>
+        <h2>Amo los drones y así</h2>
 	<form action="insert.php" method="post" onsubmit="" id="register-form" novalidate="novalidate"> 
 		<hr/>  
 		<p><label for="nombreUsuario" >Nombre:<input type="text" id="name" name="name" /> 
