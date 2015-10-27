@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+<desayuno>
+    <platillo id="1">
+      <nombre>Hot Cakes</nombre>
+      <precio>30</precio>
+      <calorias>400</calorias>
+    </platillo>
+     <platillo id ="2">
+      <nombre>Waffles</nombre>
+      <precio>50</precio>
+      <calorias>350</calorias>
+    </platillo>
+</desayuno>
